@@ -2,11 +2,11 @@
 Проект для всякой мелочи
 
 ### Оглавление
-[1. Случайные числа с австралийского квантового генератора случайных чисел](https://github.com/PigraTestudo/CommonProject/blob/master/README.md#случайные-числа-с-австралийского-квантового-генератора-случайных-чисел)
+1. [Случайные числа с австралийского квантового генератора случайных чисел](https://github.com/PigraTestudo/CommonProject/blob/master/README.md#случайные-числа-с-австралийского-квантового-генератора-случайных-чисел)
 
-[2.Скрипт для "подбрасывания" монетки и озвучивания результата](https://github.com/PigraTestudo/CommonProject/blob/master/README.md#скрипт-для-подбрасывания-монетки-и-озвучивания-результата)
+2. [Скрипт для "подбрасывания" монетки и озвучивания результата](https://github.com/PigraTestudo/CommonProject/blob/master/README.md#скрипт-для-подбрасывания-монетки-и-озвучивания-результата)
 
-[3.Скрипт для чтения текстовых файлов](https://github.com/PigraTestudo/CommonProject/blob/master/README.md#скрипт-для-чтения-текстовых-файлов)
+3. [Скрипт для чтения текстовых файлов](https://github.com/PigraTestudo/CommonProject/blob/master/README.md#скрипт-для-чтения-текстовых-файлов)
 
 
 
